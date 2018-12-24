@@ -1,0 +1,24 @@
+{
+  "type":"success",
+  "maxId":1000,
+  "length":2,
+  "content":[
+    {
+      "id": 1,
+      "name":"REBOX ZANE",
+      "price": 250,
+      "quantity": 1,
+      "rating": 4.5,
+      "imgSrc": "./img/beard-man.jpg"
+    },
+
+    {
+      "id": 2,
+      "name":"REBOX ZANE",
+      "price": 250,
+      "quantity": 1,
+      "rating": 4.5,
+      "imgSrc": "./img/chair-woman.jpg"
+    }
+  ]
+}
